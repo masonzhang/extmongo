@@ -1,0 +1,5 @@
+node_modules
+
+src/public/app/store/Collection.js
+
+.DS_Store
