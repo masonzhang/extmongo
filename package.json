@@ -1,6 +1,6 @@
 {
     "name": "extmongo",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Web admin for mongodb based on node.js",
     "homepage": "http://github.com/masonzhang/extmongo",
     "author": "Mason Zhang <aladdina@gmail.com>",
