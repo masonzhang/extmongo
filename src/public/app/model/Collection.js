@@ -1,4 +1,4 @@
-Ext.define('ExtMongo.model.Member', {
+Ext.define('ExtMongo.model.Collection', {
     extend: 'Ext.data.Model',
     requires: [
         'Ext.data.proxy.Rest',

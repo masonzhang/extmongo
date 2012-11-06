@@ -1,4 +1,4 @@
-Ext.define('ExtMongo.view.BaseList', {
+Ext.define('ExtMongo.view.Collection', {
     extend: 'Ext.panel.Panel',
     requires: [
         'Ext.grid.Panel',

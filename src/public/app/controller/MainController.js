@@ -7,8 +7,7 @@ Ext.define('ExtMongo.controller.MainController', {
     views: [
         'MainWindow',
         'TreeNavigator',
-        'TabMainContent',
-        'Collection'
+        'TabMainContent'
     ],
     refs: [
         {
