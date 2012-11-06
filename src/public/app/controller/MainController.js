@@ -9,6 +9,11 @@ Ext.define('ExtMongo.controller.MainController', {
         'TreeNavigator',
         'TabMainContent'
     ],
+    models: [
+    ],
+    stores: [
+        'Database'
+    ],
     refs: [
         {
             ref: 'tabs',
